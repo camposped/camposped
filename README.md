@@ -1,13 +1,13 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Pedro</h1>
-<h4 align="center">I'm a Senior Software Developer, with 12+ years of experience. <br />Check out my <a href="https://github.com/camposped/camposped/blob/adee0e8c203057e9369a84941d6a2af43768d8e2/Pedro%20Campos%20-%20Senior%20Software%20Engineer%20-%20Resume.pdf" target="_blank">resume</a> for more.</h4>
+<h4 align="center">I'm a Senior Software Developer, with 12+ years of experience. <br />Check out my <a href="https://linkedin.com/in/camposped">LinkedIn</a> or my <a href="https://github.com/camposped/camposped/blob/adee0e8c203057e9369a84941d6a2af43768d8e2/Pedro%20Campos%20-%20Senior%20Software%20Engineer%20-%20Resume.pdf" target="_blank">resume</a> for more.</h4>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div>-->
 
 -----
 <!--<details>
